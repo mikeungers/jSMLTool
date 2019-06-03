@@ -1,0 +1,6 @@
+/target/classes/*.class
+/.classpath
+/.project
+/.settings
+/target/classes/META-INF
+/target/classes
